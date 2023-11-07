@@ -2,7 +2,7 @@
 🎓 MS CS student at Clemson University. <br>
 🐘 Contributor at <a href="https://www.postgresql.org/">Postgres</a>. <br>
 📱 Application Developer Intern at Clemson University. <br>
-📌 Scroll down to see my pinned repositories <br>
+📌 Scroll down to see my pinned repositories. <br>
 </ul>
 
 ### Connect with me:
