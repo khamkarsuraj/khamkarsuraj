@@ -1,6 +1,5 @@
 # Hey👋 Suraj Khamkar here..
 🎓 MS CS student at Clemson University. <br>
-📱 Currently working as Application Developer Intern at Clemson University. <br>
 🐘 Contributor at <a href="https://www.postgresql.org/">Postgres</a>. <br>
 📌 Scroll down to see my pinned repositories. <br>
 </ul>
