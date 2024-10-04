@@ -1,7 +1,7 @@
 # Hey👋 Suraj Khamkar here..
-🎓 MS CS student at Clemson University. <br>
-🐘 Contributor at <a href="https://www.postgresql.org/">Postgres</a>. <br>
-📌 Scroll down to see my pinned repositories. <br>
+👨🏻‍💻 Full Stack Developer at Atlantic Packaging. <br />
+🎓 Graduated from Clemson University with Master in CS. <br />
+📌 Scroll down to see my pinned repositories. <br />
 </ul>
 
 ### Connect with me:
