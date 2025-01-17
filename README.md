@@ -11,7 +11,7 @@
 [<img align="left" alt="Suraj | LeetCode" src="https://img.shields.io/badge/LeetCode-FCCF03?&style=for-the-badge&logo=leetcode&logoColor=white" />][LeetCode]
 <br>
 
-[website]: https://khamkarsuraj.github.io/portfolio/
+[website]: https://khamkarsuraj.github.io
 [gmail]: mailto:khamkarsuraj.b@gmail.com
 [linkedin]: https://www.linkedin.com/in/suraj-b-khamkar/
 [LeetCode]: https://leetcode.com/suraj_b_khamkar/
